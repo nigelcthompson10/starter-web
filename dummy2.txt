@@ -7,3 +7,7 @@ test line 6
 test line 7
 test line A
 test line B
+test line C
+test line D
+text line E 
+text line F
