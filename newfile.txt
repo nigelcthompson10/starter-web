@@ -1,3 +1,0 @@
-dummy file line 1 
-dummy file line 2
-dummy file line 3 
